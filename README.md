@@ -36,8 +36,17 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
