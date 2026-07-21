@@ -44,9 +44,14 @@
 ## String
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/manishasinha-coder/manishasinha-coder/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
